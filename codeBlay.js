@@ -164,12 +164,3 @@ setTimeout(()=>{location.reload()},600900)
 
 
 
-let uses={
-    nam:'hossam',
-    getInfo: ()=>
-         `your name is ${uses.nam}`
-    
-}
-
-console.log(uses['getInfo']);
-console.log(uses['nam'])
