@@ -106,8 +106,7 @@ body{
      border:solid 3px rgb(43, 39, 39);
      border-radius: 5px;     
      height: 138px;    
-     width: 155px;
-     flex-grow: 0;
+    flex: 0 80 155px;   
      margin: 0px 9px 6px;
      cursor: pointer;  
 }
